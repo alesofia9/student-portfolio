@@ -4,7 +4,7 @@ Student portfolio is a beta site designed by a novice student that includes simp
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the link to explore the site: https://alesofia9.github.io/student-portfolio/ 
 
 ## Usage
 
